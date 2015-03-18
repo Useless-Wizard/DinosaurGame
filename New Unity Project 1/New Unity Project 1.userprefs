@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\gameOver.cs">
+    <Files>
+      <File FileName="Assets\gameOver.cs" Line="7" Column="25" />
+      <File FileName="Assets\playerSize.cs" Line="1" Column="1" />
+      <File FileName="Assets\dinoSize.cs" Line="1" Column="1" />
+      <File FileName="Assets\dinoManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\dinoAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\controllerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\dinoMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\playerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\dinoHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\rayAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\mainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\guiScore.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
